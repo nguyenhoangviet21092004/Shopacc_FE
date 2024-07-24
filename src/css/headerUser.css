@@ -1,0 +1,216 @@
+.header2 {
+    width: 100%;
+    height: 40px;
+    margin-top: 16px;
+
+
+}
+
+.header{
+    width: 100%;
+    
+}
+
+
+.header3 {
+
+    margin-left: 300px;
+
+}
+
+
+.logo {
+    width: 7.8%;
+    height: 50px;
+    float: left;
+}
+
+.ke {
+    margin-left: 25px;
+    margin-top: 6px;
+    float: left;
+
+    font-size: 15px;
+
+
+}
+
+
+.header1 {
+    width: 100%;
+    height: 35px;
+    margin-top: 10px;
+}
+
+.hr {
+    color: rgb(230, 222, 222);
+}
+
+.logo-game {
+    width: 1%;
+    float: left;
+    margin-left: 175px;
+    font-size: 30px;
+
+}
+
+.like {
+    float: left;
+    margin-left: 375px;
+    font-size: 19px;
+    margin-top: 5px;
+}
+
+.box {
+    width: 1%;
+    float: left;
+    margin-left: 370px;
+    font-size: 22px;
+    margin-top: 2px;
+
+}
+
+
+.div1{
+    margin-left: 5px;
+}
+
+
+.div2 {
+    margin-left: 1px;
+}
+
+.div3 {
+    margin-left: 1200px;
+}
+
+
+.one {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.two {
+    font-size: 14px;
+}
+
+.three {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.hang-ngan {
+    margin-top: 4px;
+    float: left;
+    margin-left: 15px;
+
+}
+
+.tai-khoan {
+    margin-top: 4px;
+
+    float: left;
+    margin-left: 5px;
+
+}
+
+.lien-quan {
+    margin-top: 4px;
+
+    float: left;
+    margin-left: 5px;
+
+}
+
+.search {
+    float: left;
+    margin-left: 14px;
+    margin-top: 5px;
+
+}
+
+.input-search {
+    border-radius: 7px;
+    width: 615px;
+    height: 35px;
+    border: solid rgb(192, 192, 192) 1px;
+    color: aliceblue;
+    outline: none;
+
+}
+
+.button-search {
+    border: none;
+    background-color: white;
+    color: red;
+    font-size: 18px;
+
+}
+
+.money {
+    float: left;
+    margin-left: 55px;
+    margin-top: 15px;
+}
+
+.button-money {
+    width: 120px;
+    border: none;
+    background-color: #e01674;
+    color: white;
+   
+    font-size: 20px;
+    float: left;
+    border-radius: 7px;
+    margin-top: -14px;
+    height: 40px;
+
+
+
+}
+
+.bell {
+    float: left;
+    margin-left: 55px;
+    margin-top: 10px;
+    color: red;
+    font-size: 24px;
+}
+
+.person {
+    float: left;
+    margin-left: 55px;
+    margin-top: 15px;
+    border: solid white 5px;
+    color: red;
+    margin-top: 8px;
+    font-size: 24px;
+
+
+
+}
+
+.nap-tien {
+    margin-left: 50px;
+}
+
+.signin {
+    float: left;
+    margin-left: 10px;
+    border: none;
+    color: red;
+    background-color: white;
+    font-size: 18px;
+    margin-top: 14px;
+}
+
+.signup {
+    float: left;
+    border: none;
+    color: red;
+    background-color: white;
+    font-size: 18px;
+    margin-top: 13px;
+    margin-left: -5px;
+
+}
