@@ -1,0 +1,272 @@
+.content {
+    width: 100%;
+    margin-top: 20px;
+    /* background: rgba(229, 233, 229, 0.356); */
+    background-color: yellow;
+
+}
+
+.div-content1 {
+    width: 100%;
+    margin-left: 0px;
+    background-color: rgb(243, 219, 6);
+    height: 35px;
+
+}
+
+.div-content2 {
+    float: left;
+    width: 100%;
+
+}
+
+.div1-content {
+
+    margin-left: 300px;
+    margin-top: 0px;
+}
+
+.fire {
+    color: red;
+}
+
+.image-content {
+    float: left;
+    border-radius: 7px;
+    margin-left: 291px;
+    margin-top: 10px;
+}
+
+.image-content2 {
+    float: left;
+    border-radius: 7px;
+    margin-left: 17px;
+    margin-top: 10px;
+
+}
+
+.image-content3 {
+    float: left;
+    border-radius: 7px;
+    margin-top: 170px;
+    margin-left: -300px;
+}
+
+.i {
+    border-radius: 10px;
+}
+
+.div-content3 {
+    float: left;
+    width: 100%;
+    height: 47%;
+}
+
+.content3-1 {
+    width: 68.5%;
+    height: 14%;
+    margin: 0 auto;
+
+}
+
+.content3-2 {
+    width: 68.5%;
+    height: 90%;
+    margin: 0 auto;
+    /* background-color: rgb(255, 255, 0); */
+}
+
+.content3-1-image{
+    margin-top: 23px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.content3-1-word{
+    margin-top: 3px;
+}
+
+.star{
+    color: rgb(235, 235, 21);
+    font-size: 18px;
+}
+
+.content3-2-div1{
+    width: 19.1%;
+    height: 48%;
+    background: white;
+    float: left;
+    border-radius: 10px;
+    margin-right: 13px;
+
+}
+
+.content3-2-div2{
+    width: 19.1%;
+    height: 48%;
+    background: white;
+    float: left;
+    border-radius: 10px;
+    margin-right: 13px;
+
+
+    
+}
+
+.content3-2-div3{
+    width: 19.1%;
+    height: 48%;
+    background: white;
+    float: left;
+    border-radius: 10px;
+    margin-right: 13px;
+
+
+    
+}
+
+.content3-2-div4{
+    width: 19.1%;
+    height: 48%;
+    background: white;
+    float: left;
+    border-radius: 10px;
+    margin-right: 13px;
+
+    
+}
+
+.content3-2-div5{
+    width: 19.1%;
+    height: 48%;
+    background: white;
+    float: left;
+    border-radius: 10px;
+    
+    
+}
+
+.content3-2-div6{
+    margin-top: 13px;
+    width: 19.1%;
+    height: 48%;
+    background: white;
+    float: left;
+    border-radius: 10px;
+    margin-right: 13px;
+
+}
+
+.content3-2-div7{
+    margin-top: 13px;
+    width: 19.1%;
+    height: 48%;
+    background: white;
+    float: left;
+    border-radius: 10px;
+    margin-right: 13px;
+}
+
+.img-content-3{
+    margin-left: 2px;
+    border-radius:1px;
+}
+
+.note-content-3-1{
+    font-size: 15px;
+    margin-top: 3px;
+
+   
+}
+
+.note-content-3{
+    margin-top: 5px;
+    color: red;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.div-list{
+    margin-left: 350px;
+    width: 68.5%;
+    height: 90%;
+    /* background-color: green; */
+
+}
+
+.div-1-list{
+    width: 23.80%;
+    background: white;
+    float: left;
+    border-radius: 10px;
+    margin-right: 1px;
+    margin-bottom: 9px;
+    margin-left: 11px;
+}
+
+.image-view{
+
+}
+
+.price-view{
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 20px;
+    color: red;
+}
+
+.detail{
+    width: 45%;
+    margin-top: 5px;
+}
+
+.detail-view{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.description-view{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.div-list-boder{
+
+    
+
+}
+
+
+.link{
+    color: black ;
+}
+.content-detail{
+    background-color: yellow;
+    width: 100%;
+    height: 500px;
+    
+}
+
+
+.content-detail-1{
+    width: 68%;
+    height: 100%;
+    margin:10px auto;
+    /* background-color: red; */
+}
+
+
+.detail-image{
+    width: 40%;
+    height: 100%;
+    background-color: green;
+    float: left;
+}
+
+.detail-content{
+    /* float: left; */
+    margin-left: 0px;
+    width: 100%;
+    height: 100%;
+    background-color: purple;
+}
