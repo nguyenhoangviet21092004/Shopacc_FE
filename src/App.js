@@ -2,7 +2,6 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import Home from './components/Home';
 import List from './components/List';
 import Detail from './components/Detail';
-
 function App() {
   return (
     <>

@@ -40,51 +40,51 @@ function List() {
                     <div className="div-list-boder">
                         {products.map((item) => (
                             <Link to={`/detail/${item.id}`} className="link">
-                            <div className="div-1-list">
-                                <div className="image-view">
-                                    
+                                <div className="div-1-list">
+                                    <div className="image-view">
+
                                         <img width="100%" height="200px" src={item.image} onclick={onclick}></img>
 
-                                </div>
-                                <hr></hr>
-                                <div className="price-view" >
-                                    <span>{formatPrice(item.price)} đ
-                                    </span>
-                                </div>
-                                <div className="detail-view">
-                                    <div className="detail">
-                                        <span>{item.general}</span>
                                     </div>
-                                    <div className="detail">
-                                        <span>{item.skin}</span>
+                                    <hr></hr>
+                                    <div className="price-view" >
+                                        <span>{formatPrice(item.price)} đ
+                                        </span>
+                                    </div>
+                                    <div className="detail-view">
+                                        <div className="detail">
+                                            Tướng:  <span>{item.general}</span>
+                                        </div>
+                                        <div className="detail">
+                                            Trang phục: <span>{item.skin}</span>
+
+                                        </div>
+                                        <div className="detail">
+                                            Rank:   <span>{item.ranks}</span>
+
+                                        </div>
 
                                     </div>
-                                    <div className="detail">
-                                        <span>{item.ranks}</span>
 
+
+                                    <div className="description-view">
+                                        <span><ImFire className="fire" />{item.description}</span>
                                     </div>
 
                                 </div>
+                            </Link>
 
-
-                                <div className="description-view">
-                                    <span><ImFire className="fire" />{item.description}</span>
-                                </div>
-
-                            </div>
-                                    </Link>
-
-                    ))
+                        ))
                         }
+                    </div>
                 </div>
+
             </div>
 
-        </div>
-
-        <div>
-            <FooterUser />
-        </div>
-    </body >
+            <div>
+                <FooterUser />
+            </div>
+        </body >
 
     </>)
 }
